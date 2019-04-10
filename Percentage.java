@@ -24,6 +24,7 @@ class Percentage
 		else if(p<34)
 		System.out.println("failed");
 
+		System.out.println("Done");
 	}
 System.out.println("Done");
 }
